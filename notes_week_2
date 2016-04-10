@@ -1,0 +1,6 @@
+Notes for week 2
+ for loops
+    "i" is a loop index (typically named "i" but could be "j","k", etc
+    example 
+        for (i in 1:0) or
+        for (i in id) 
